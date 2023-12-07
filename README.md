@@ -2,7 +2,9 @@
 Analyzing the results of Sediment Granulation using a soil sieve with specific mesh numbers (coastal sands)
 
 how to use :
-COPY SANDSRESULT FOLDER IN DRIVE C:                   |
+1 - Install Python
+2 - Extract SANDSRESULT.ZIP
+3 - COPY SANDSRESULT FOLDER IN DRIVE C:                   |
 -------------------------------------------------------
 $ PIP INSTALL FPDF     ==> VIA CMD (IF NEED MAING.PY) |
 -------------------------------------------------------
