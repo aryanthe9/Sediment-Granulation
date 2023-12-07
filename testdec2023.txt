@@ -1,0 +1,75 @@
+
+     _
+    /|\
+   /_|_\
+ ____|____
+ \_o_o_o_/
+~~ |     ~~~~~
+___t_________
+
+ Action Name: =================testdec2023==================
+Longitude: 64646.0
+Latitude: 323232.6464
+Total Garbage Mass: 22.5 grams
+Percentage of Garbage to Total Sand Mass: 3.37%
+----------------------------------------------------------------------------------------------------------------
+Summary for Each Grain Size:
+----------------------------------------------------------------------------------------------------------------
+Grain Size: 16.0 Mesh NO. (Micron: 1190, MM: 1.19)
+Sediment Volume: 51.0 grams
+Ratio (Sediment/total sand): 0.08
+Ratio (Sediment this grain/other grains): 0.71
+Percentage of Total Sediment/other sediments: 71.49%
+Percentage of Total Sediments/sand: 7.91%
+Mass of Garbage in Sand for 16.0 Mesh NO. grain: 22.5 grams
+----------------------------------------------------------------------------------------------------------------
+Grain Size: 20.0 Mesh NO. (Micron: 841, MM: 0.841)
+Sediment Volume: 11.3 grams
+Ratio (Sediment/total sand): 0.02
+Ratio (Sediment this grain/other grains): 0.16
+Percentage of Total Sediment/other sediments: 15.84%
+Percentage of Total Sediments/sand: 1.75%
+Mass of Garbage in Sand for 20.0 Mesh NO. grain: 0.0 grams
+----------------------------------------------------------------------------------------------------------------
+Grain Size: 50.0 Mesh NO. (Micron: 297, MM: 0.297)
+Sediment Volume: 6.94 grams
+Ratio (Sediment/total sand): 0.01
+Ratio (Sediment this grain/other grains): 0.10
+Percentage of Total Sediment/other sediments: 9.73%
+Percentage of Total Sediments/sand: 1.08%
+Mass of Garbage in Sand for 50.0 Mesh NO. grain: 0.0 grams
+----------------------------------------------------------------------------------------------------------------
+Grain Size: 100.0 Mesh NO. (Micron: 149, MM: 0.149)
+Sediment Volume: 1.5 grams
+Ratio (Sediment/total sand): 0.00
+Ratio (Sediment this grain/other grains): 0.02
+Percentage of Total Sediment/other sediments: 2.10%
+Percentage of Total Sediments/sand: 0.23%
+Mass of Garbage in Sand for 100.0 Mesh NO. grain: 0.0 grams
+----------------------------------------------------------------------------------------------------------------
+Grain Size: 200.0 Mesh NO. (Micron: 74, MM: 0.074)
+Sediment Volume: 0.6 grams
+Ratio (Sediment/total sand): 0.00
+Ratio (Sediment this grain/other grains): 0.01
+Percentage of Total Sediment/other sediments: 0.84%
+Percentage of Total Sediments/sand: 0.09%
+Mass of Garbage in Sand for 200.0 Mesh NO. grain: 0.0 grams
+----------------------------------------------------------------------------------------------------------------
+
+Overall Summary with Percentages:
+----------------------------------------------------------------------------------------------------------------
+Total Sand Mass: 644.5 grams
+Total Sediment Volume: 71.34 grams
+Percentage of All Sediment: 100.00%
+Percentage of All Sediments to Sand: 11.07%
+----------------------------------------------------------------------------------------------------------------
+
+Collected by Aryan Salmannezhad
+
+     _
+    /|\
+   /_|_\
+ ____|____
+ \_o_o_o_/
+~~ |     ~~~~~
+___t_________
